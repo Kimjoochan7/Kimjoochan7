@@ -8,8 +8,7 @@
 -->
 
 # Introduction to GitHub
-
-_Get started using GitHub in less than an hour._
+Hello my name is Kimjoochan I love CR7
 
 </header>
 
